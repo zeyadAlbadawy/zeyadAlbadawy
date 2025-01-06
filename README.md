@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeyad Albadawy</h1>
-<h3 align="center">A Backend Developer With Passion For Computer Science from Egypt</h3>
+<h3 align="center">A Backend Engineer With Passion For Computer Science from Egypt</h3>
+<h3 align="center">A  Third-Year Electronics and Communication Engineering student at Mansoura University</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=zeyadalbadawy&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadalbadawy" /> 
