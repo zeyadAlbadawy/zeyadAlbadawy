@@ -16,9 +16,9 @@
 - 💬 Ask me about **Backend, NodeJs, Express**
 
 - 📫 How to reach me **zeyadalbadawyamm@gmail.com**
-- 📫 You can reach me Via WhatsApp **+201065832395**
+- 📫 You can reach me via WhatsApp **+201065832395**
+- 📄 [Access My Resume](https://drive.google.com/file/d/1RkCfGBqWiYlSBycgx3oQepJ-g71RjX7u/view?usp=sharing)
 ---
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/zeyad-albadawy/" target="_blank">
