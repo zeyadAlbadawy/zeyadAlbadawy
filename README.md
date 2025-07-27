@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeyad Albadawy</h1>
 <h3 align="center">A Backend Engineer With Passion For Software Engineering from Egypt</h3>
-<h3 align="center">A  Third-Year Electronics and Communication Engineering student at Mansoura University</h3>
+<h3 align="center">A  Fourth-Year Electronics and Communication Engineering student at Mansoura University</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=zeyadalbadawy&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadalbadawy" /> 
@@ -11,9 +11,8 @@
 
 
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 💬 Ask me about **Backend, NodeJs, Express**
+- 🌱 I’m currently learning **Backend Development** and oppen to new opportunities
+- 💬 Ask me about **Backend, NodeJs, Express, MongoDB, Mongoose, PostgreSQL**
 
 - 📫 How to reach me **zeyadalbadawyamm@gmail.com**
 - 📫 You can reach me via WhatsApp **+201065832395**
