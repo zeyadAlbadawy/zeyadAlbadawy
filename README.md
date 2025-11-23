@@ -17,7 +17,6 @@
 - 📫 How to reach me **zeyadalbadawyamm@gmail.com**
 - 📫 You can reach me via WhatsApp **+201065832395**
 - 📄 [Access My Resume](https://drive.google.com/file/d/1cboxOo-lPmqkw9oluATYdVb9a-BHGrIu/view?usp=sharing)
-- 
 ---
 <h3 align="left">Connect with me:</h3>
 <div align="left">
